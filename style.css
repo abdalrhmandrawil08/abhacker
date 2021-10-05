@@ -1,0 +1,26 @@
+
+.haha{
+     background-color: #2f76c4;
+}
+    .moon{
+        border:solid 2px rgb(0, 204, 255);
+        background-color: mediumblue;
+        width:50px;
+        height: 50px;
+       margin: -250px; 
+       margin-left: -10px;  
+       margin-top: -750px;
+       transition: 8s;
+    }
+    .moon:hover{
+        background-color: lime;
+        width: 450px;
+        height: 70px;
+        animation: mymove 5s infinite;
+    }
+    .java{
+        width: -500px;
+        height: 180px;
+        margin-left: 60px;
+    }
+    
